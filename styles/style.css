@@ -139,6 +139,7 @@
   flex-direction: column;
   gap: 25px;
   padding: 25px;
+  line-height: 1.17;
 }
 
 .card__text p:first-child {
